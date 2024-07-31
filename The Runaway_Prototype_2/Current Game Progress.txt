@@ -1,0 +1,5 @@
+Current Game Progress:
+- Built Necessary UI
+- Started building level 1 map
+- Made The player sprite
+- Finished the tutorial phase (Lacking Audio Only and clean-ups)
